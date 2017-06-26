@@ -11,3 +11,6 @@ Batch_norm, drop_out, minor technique
 
 # class3
 RNN example for MNIST_restoration
+
+# tensorboard
+tensorboard --logdir=./log
