@@ -14,3 +14,6 @@ RNN example for MNIST_restoration
 
 # tensorboard
 tensorboard --logdir=./log
+
+# deep
+Deep layer with only convolution
